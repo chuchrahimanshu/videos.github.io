@@ -17,7 +17,7 @@ A simple web application that fetches and displays YouTube videos using an API. 
 
 ## Deployment
 
-You can access the live application [here](https://api.freeapi.app/api/v1/public/youtube/videos).
+You can access the live application [here](https://chuchrahimanshu.github.io/videos.github.io/).
 
 ## Technologies Used
 
